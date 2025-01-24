@@ -1,1 +1,2 @@
 Hello, this is a test. 
+Today is a Friday, and there is pizza for lunch.
